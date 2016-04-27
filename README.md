@@ -1,2 +1,0 @@
-# askmenards
-askmenards.com
